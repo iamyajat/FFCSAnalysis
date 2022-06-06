@@ -1,0 +1,6 @@
+Course{courseCode='CSE3013', courseTitle='Artificial Intelligence', courseType='ETH', roomNumber='SJT807', slot='A2+TA2', employeeName='SRIDHAR RAJ S'}
+Course{courseCode='CSE3013', courseTitle='Artificial Intelligence', courseType='ETH', roomNumber='SJT505', slot='B2+TB2', employeeName='ANTO S'}
+Course{courseCode='CSE3013', courseTitle='Artificial Intelligence', courseType='ETH', roomNumber='SJT401', slot='B1+TB1', employeeName='GOPALAKRISHNAN T'}
+Course{courseCode='CSE3013', courseTitle='Artificial Intelligence', courseType='ETH', roomNumber='SJT521', slot='B2+TB2', employeeName='GOPALAKRISHNAN T'}
+Course{courseCode='CSE1006', courseTitle='Blockchain and Cryptocurrency Technologies', courseType='TH', roomNumber='SJT501', slot='C1+TC1', employeeName='JAYAKUMAR S'}
+Course{courseCode='CSE1006', courseTitle='Blockchain and Cryptocurrency Technologies', courseType='TH', roomNumber='SJT501', slot='A2+TA2', employeeName='KRISHNAMOORTHY A'}

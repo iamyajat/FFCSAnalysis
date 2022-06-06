@@ -1,0 +1,15 @@
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT501', slot='G1+TG1', employeeName='PRABAKARAN N'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT323', slot='G2+TG2', employeeName='PRABAKARAN N'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT513', slot='G1+TG1', employeeName='SANTHI K'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT405', slot='G2+TG2', employeeName='SANTHI K'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT514', slot='G1+TG1', employeeName='GUNAVATHI C'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT424', slot='G2+TG2', employeeName='GUNAVATHI C'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT501', slot='G2+TG2', employeeName='NAVAMANI T M'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT502', slot='G2+TG2', employeeName='SIVASANKARI S'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT504', slot='G1+TG1', employeeName='SURESHKUMAR WI'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT323', slot='G1+TG1', employeeName='VISHNUPRIYA'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT508', slot='G2+TG2', employeeName='VISHNUPRIYA'}
+Course{courseCode='MAT3004', courseTitle='Applied Linear Algebra', courseType='TH', roomNumber='SJT421', slot='C2+TC2+TCC2+V4', employeeName='PALANIVEL K'}
+Course{courseCode='MAT3004', courseTitle='Applied Linear Algebra', courseType='TH', roomNumber='SJT508', slot='C1+TC1+TCC1+V2', employeeName='RAGHAVENDAR K'}
+Course{courseCode='MAT3004', courseTitle='Applied Linear Algebra', courseType='TH', roomNumber='SJT513', slot='C1+TC1+TCC1+V2', employeeName='VENKATESWARLU B'}
+Course{courseCode='MAT3004', courseTitle='Applied Linear Algebra', courseType='TH', roomNumber='SJT514', slot='C1+TC1+TCC1+V2', employeeName='NALLIAH M'}

@@ -1,0 +1,7 @@
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ETH', roomNumber='SJT311A', slot='B1', employeeName='MEENAKSHI S P'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ETH', roomNumber='SJT424', slot='B1', employeeName='ARCHANA T'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ETH', roomNumber='SJT324', slot='B2', employeeName='ARCHANA T'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ETH', roomNumber='SJT224', slot='B2', employeeName='SRIDHAR RAJ S'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ELA', roomNumber='SJT316', slot='L49+L50', employeeName='MEENAKSHI S P'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ELA', roomNumber='SJT416', slot='L11+L12', employeeName='ARCHANA T'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ELA', roomNumber='SJT516', slot='L45+L46', employeeName='ARCHANA T'}

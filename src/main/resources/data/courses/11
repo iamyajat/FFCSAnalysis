@@ -1,0 +1,14 @@
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ELA', roomNumber='SJT517', slot='L27+L28', employeeName='SRIDHAR RAJ S'}
+Course{courseCode='CSE3002', courseTitle='Internet and Web Programming', courseType='ELA', roomNumber='SJT418', slot='L53+L54', employeeName='SRIDHAR RAJ S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT302', slot='A1+TA1', employeeName='SRIMATHI C'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT322', slot='A1+TA1', employeeName='SALEEM DURAI M.A'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT311A', slot='C1+TC1', employeeName='RAJKUMAR R'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT515', slot='L55+L56', employeeName='SRIMATHI C'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT323', slot='A2+TA2', employeeName='SANTHI H'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT505', slot='C1+TC1', employeeName='DHEEBA J'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT423', slot='C2+TC2', employeeName='DHEEBA J'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT315', slot='C2+TC2', employeeName='SIVANESAN S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT305', slot='A2+TA2', employeeName='ANANDA KUMAR S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT422', slot='C2+TC2', employeeName='RAJKUMAR S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT516', slot='L43+L44', employeeName='SALEEM DURAI M.A'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT516', slot='L41+L42', employeeName='RAJKUMAR R'}

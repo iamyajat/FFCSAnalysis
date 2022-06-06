@@ -1,0 +1,9 @@
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT501', slot='A1+TA1', employeeName='ANURADHA G'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT415', slot='C2+TC2', employeeName='ANURADHA G'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT516', slot='L7+L8', employeeName='SANTHI H'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT601', slot='C1+TC1', employeeName='SASIKALA .R'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT416', slot='L21+L22', employeeName='SIVANESAN S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT418', slot='L37+L38', employeeName='SIVANESAN S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT416', slot='L15+L16', employeeName='ANANDA KUMAR S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT202', slot='C2+TC2', employeeName='VENKATA PHANIKRISHNA B'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT807', slot='C2+TC2', employeeName='DEEBAK B D'}

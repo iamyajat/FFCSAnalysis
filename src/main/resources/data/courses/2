@@ -1,0 +1,15 @@
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT416', slot='L1+L2', employeeName='DEEBAK B D'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT122', slot='L37+L38', employeeName='DEEBAK B D'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT807', slot='C1+TC1', employeeName='YOKESH BABU S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ETH', roomNumber='SJT308', slot='C2+TC2', employeeName='YOKESH BABU S'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT418', slot='L35+L36', employeeName='ARIVOLI A'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT419', slot='L7+L8', employeeName='ARIVOLI A'}
+Course{courseCode='CSE1004', courseTitle='Network and Communication', courseType='ELA', roomNumber='SJT419', slot='L15+L16', employeeName='YOKESH BABU S'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT311', slot='G1+TG1', employeeName='LAKSHMANAN K'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT311', slot='G2+TG2', employeeName='VISWANATHAN P'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT315', slot='G1+TG1', employeeName='SHALINI L'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT401', slot='G2+TG2', employeeName='SHALINI L'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT423', slot='G1+TG1', employeeName='SATHIYA KUMAR C'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT423', slot='G2+TG2', employeeName='SATHIYA KUMAR C'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT405', slot='G1+TG1', employeeName='ANNAPURNA JONNALAGADDA'}
+Course{courseCode='CSE2013', courseTitle='Theory of Computation', courseType='TH', roomNumber='SJT402', slot='G2+TG2', employeeName='KANNADASAN R'}

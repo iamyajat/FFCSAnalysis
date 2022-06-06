@@ -1,0 +1,9 @@
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT418', slot='L43+L44', employeeName='MARGRET ANOUNCIA S'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ETH', roomNumber='SJT203', slot='D2', employeeName='VENGADESWARAN S'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ETH', roomNumber='SJT503', slot='G2', employeeName='MURUGAN K'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ETH', roomNumber='SJT501', slot='D2', employeeName='JYOTISMITA CHAKI'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT418', slot='L39+L40', employeeName='JYOTISMITA CHAKI'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT418', slot='L11+L12', employeeName='JYOTISMITA CHAKI'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT419', slot='L21+L22', employeeName='MURUGAN K'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT419', slot='L39+L40', employeeName='VENGADESWARAN S'}
+Course{courseCode='CSE3020', courseTitle='Data Visualization', courseType='ELA', roomNumber='SJT517', slot='L13+L14', employeeName='VENGADESWARAN S'}
